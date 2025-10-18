@@ -5,10 +5,6 @@
 - 📫 You can reach me through email on 'mansoor.ahmed11521@gmail.com or mansoorahmedsurti@gmail.com'
 - 😄 Pronouns: He/Him
 
-  ### 🔥 GitHub Stats & Activity
-
-[![Mansoor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mansoorahmedsurti&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)](https://github.com/mansoorahmedsurti)
-
 
 ## 📊 My GitHub Stats
 
