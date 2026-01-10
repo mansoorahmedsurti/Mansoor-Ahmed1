@@ -8,9 +8,9 @@
 
 ## 📊 My GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mansoorahmedsurti&theme=dark&background=00000000&fire=EB5454&hide_border=true)](https://git.io/streak-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=mansoorahmedsurti&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/mansoorahmedsurti?theme=dark&font=nunito&ext=heatmap)](https://leetcode.com/u/mansoorahmedsurti/)
 
