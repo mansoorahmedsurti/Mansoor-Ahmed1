@@ -8,10 +8,6 @@
 
 ## 📊 My GitHub Stats
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mansoorahmedsurti&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Mansoor's GitHub Stats" width="45%" align="left"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansoorahmedsurti&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="45%" align="right"/>
-</p>
 [![LeetCode Stats](https://leetcard.jacoblin.cool/mansoorahmedsurti?theme=dark&font=nunito&ext=heatmap)](https://leetcode.com/u/mansoorahmedsurti/)
 
 <!---
