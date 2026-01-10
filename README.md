@@ -8,9 +8,10 @@
 
 ## 📊 My GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mansoorahmedsurti/&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/mansoorahmedsurti/&layout=compact&theme=transparent)
+![Mansoor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mansoorahmedsurti&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mansoorahmedsurti&layout=compact&theme=transparent)
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/mansoorahmedsurti?theme=dark&font=nunito&ext=heatmap)](https://leetcode.com/u/mansoorahmedsurti/)
 
