@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mansoor Ahmed
+<img width="1263" height="473" alt="image" src="https://github.com/user-attachments/assets/e04d9037-383c-4cc3-ba7a-e0657e498621" />- 👋 Hi, I’m Mansoor Ahmed
 - 👀 I’m interested in Agentic and Robotic AI
 - 🌱 I’m currently learning Agentic AI
 - 💞️ I’m looking to collaborate on Web Development(Next.js)
@@ -12,6 +12,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=mansoorahmedsurti&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Mansoor's GitHub Stats" width="45%" align="left"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansoorahmedsurti&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="45%" align="right"/>
 </p>
+[![LeetCode Stats](https://leetcard.jacoblin.cool/mansoorahmedsurti?theme=dark&font=nunito)](https://leetcode.com/u/mansoorahmedsurti/)
 
 <!---
 Mansoor-Ahmed1/Mansoor-Ahmed1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
