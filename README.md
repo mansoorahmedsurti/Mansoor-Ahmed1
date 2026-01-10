@@ -13,7 +13,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansoorahmedsurti&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="45%" align="right"/>
 </p>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/mansoorahmedsurti?theme=dark&font=nunito&ext=heatmap)](https://leetcode.com/u/mansoorahmedsurti/)
 
 <!---
 Mansoor-Ahmed1/Mansoor-Ahmed1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
