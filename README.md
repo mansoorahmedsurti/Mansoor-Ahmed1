@@ -8,6 +8,15 @@
 
 ## 📊 My GitHub Stats
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mansoorahmedsurti&show_icons=true&theme=dark&hide_border=true&bg_color=00000000"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansoorahmedsurti&layout=compact&theme=dark&hide_border=true&bg_color=00000000"/>
+</div>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mansoorahmedsurti&theme=dark&background=00000000&fire=EB5454&hide_border=true)](https://git.io/streak-stats)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=mansoorahmedsurti&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![LeetCode Stats](https://leetcard.jacoblin.cool/mansoorahmedsurti?theme=dark&font=nunito&ext=heatmap)](https://leetcode.com/u/mansoorahmedsurti/)
 
 <!---
